@@ -1,0 +1,8 @@
+﻿Nombre,Cantidad,Componente
+"UPlaca Arduino UNO R3",1," Arduino Uno R3"
+"UDisplay",1," LCD 16 x 2"
+"RpotPotenciometro Display, RpotSensor CO, RpotSensor CH4",3,"10 kΩ Potenciómetro"
+"RResistencia R",1,"200 kΩ Resistencia"
+"RResistencia LED Rojo, RResistencia LED Azul, RResistencia LED Verde",3,"220 kΩ Resistencia"
+"PIEZOAlarma Sonora",1," Piezo"
+"DLED RGB",1,"RCBG LED RGB"
